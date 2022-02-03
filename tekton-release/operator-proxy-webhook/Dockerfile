@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/proxy-webhook:v0.52.0@sha256:cb4d495f726b1b4dd80c0b6e6711897e818a6d6f1721d423d60f85d34ffa3777
+FROM gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/proxy-webhook:v0.54.0@sha256:7252143cc6daa38dcfa6287ed38b619c10ddc8befa93516a338cf9b68a4847ff
