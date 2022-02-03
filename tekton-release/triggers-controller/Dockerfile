@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.17.1@sha256:6b270599fde41dd1eb0f00aa4889bfd0c3529886a2357c568673efb9838a404d
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.18.0@sha256:c9bac56feb04c16a1b483a7fe50a723022c0f1dfe920d6704ca7566de8d473cf
