@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/operator:v0.54.0@sha256:7252143cc6daa38dcfa6287ed38b619c10ddc8befa93516a338cf9b68a4847ff
+FROM gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/operator:v0.54.0@sha256:d1f0463b35135852308ea815c2ae54c1734b876d90288ce35828aeeff9899f9d
