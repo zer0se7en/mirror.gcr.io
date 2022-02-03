@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/webhook:v0.53.0@sha256:88811100723b68540780e0cb2981f04ffc155975629a30691b6108523e413b72
+FROM gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/webhook:v0.54.0@sha256:7252143cc6daa38dcfa6287ed38b619c10ddc8befa93516a338cf9b68a4847ff
